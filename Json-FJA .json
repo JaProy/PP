@@ -3,8 +3,8 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola brouston"
-    ,"ModeOnline" : "true"
-    ,"ModeRoyale" : "true"
+    ,"ModeOnline" : "false"
+    ,"ModeRoyale" : "false"
    }
  ]
  ,"DataTables":[
