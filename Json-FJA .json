@@ -14,8 +14,8 @@
    ]
    ,"Gadgets":[
     {
-       "Jackal" : "false"
-      ,"JackalOnline" : "true"
+       "Jackal" : "true"
+      ,"JackalOnline" : "false"
     }
    ]
 }
