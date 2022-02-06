@@ -2,14 +2,20 @@
  "Data":[
    {
     "Condition": "Creating the new FJA project"
-    ,"Dato" : "Hola brouston"
+    ,"Dato" : "Hola bro"
     ,"ModeOnline" : "true"
     ,"ModeRoyale" : "true"
    }
  ]
  ,"DataTables":[
     {
-      "ChestV1": "Default" 
+      "ChestV1": "12" 
+    }
+   ]
+   ,"Gadgets":[
+    {
+       "Jackal" : "true"
+      ,"JackalOnline" : "true"
     }
    ]
 }
